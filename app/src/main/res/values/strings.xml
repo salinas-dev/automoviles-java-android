@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Compra Automovil</string>
+    <string name="autorun_com">AutoRun.com</string>
+    <string name="costo_del_automovil">Costo del Automovil</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="nuevo">NUEVO</string>
+</resources>
